@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(s/rubik/v31/iJWKBXyIfDnIV7nBrXyw023e.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: fallback;
+  src: url(s/rubik/v31/iJWKBXyIfDnIV7nBrXyw023e.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: url(s/rubik/v31/iJWKBXyIfDnIV7nBrXyw023e.woff2) format('woff2');
+}

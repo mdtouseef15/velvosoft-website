@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+
+# WordPress secrets (never commit these if a full WP backup is added later)
+wp-config.php
+.env
+*.sql
